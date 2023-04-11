@@ -1,0 +1,2 @@
+# dingCanMobileSend
+vue/mobile
